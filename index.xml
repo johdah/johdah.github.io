@@ -3,25 +3,11 @@
   <channel>
       <title>Recent Content on Johan Dahlberg </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://localhost:1313/index.xml</link>
+    <link>http://johdah.github.io/index.xml</link>
     <language>en-us</language>
     
     
-    <updated>Sun, 20 Jul 2014 10:03:17 UTC</updated>
-    
-    <item>
-      <title>about</title>
-      <link>http://localhost:1313/about</link>
-      <pubDate>Sun, 20 Jul 2014 10:03:17 UTC</pubDate>
-      
-      <guid>http://localhost:1313/about</guid>
-      <description>
-
-&lt;h2 id=&#34;toc_0&#34;&gt;About&lt;/h2&gt;
-
-&lt;p&gt;Some content&lt;/p&gt;
-</description>
-    </item>
+    <updated>Mon, 01 Jan 0001 00:00:00 UTC</updated>
     
   </channel>
 </rss>
